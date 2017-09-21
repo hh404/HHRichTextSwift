@@ -1,0 +1,6 @@
+framework module Pods_HHRichTextSwiftTests {
+  umbrella header "Pods-HHRichTextSwiftTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
